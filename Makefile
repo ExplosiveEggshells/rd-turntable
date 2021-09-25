@@ -1,4 +1,4 @@
-test: turntable.o
+turntable: turntable.o
 	g++ -c -o turntable.o turntable.cpp
 	g++ -o turntable turntable.o
 	rm *.o
