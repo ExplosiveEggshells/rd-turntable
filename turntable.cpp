@@ -178,6 +178,9 @@ int main(int argc, char *argv[])
             cout << "FarLight -1 0 0 1 0 0 0.5\n";
             cout << "FarLight 0 -1 0 0 1 0 0.5\n";
             cout << "FarLight 0 0 -1 0 0 1 0.5\n";
+            cout << "FarLight 1 0 0 1 0 0 0.5\n";
+            cout << "FarLight 0 1 0 0 1 0 0.5\n";
+            cout << "FarLight 0 0 1 0 0 1 0.5\n";
             cout << "AmbientLight 1 1 1 0.8\n";
         }
         else
