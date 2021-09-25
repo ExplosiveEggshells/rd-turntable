@@ -2,8 +2,8 @@
 A supplemental program for displaying a rotating visualization of PolySets compatible with NIU's rd_view program.
 
 ## Usage
-./turntable filepath
---Pipe to rd_view--
+./turntable filepath <br/>  
+--Pipe to rd_view--  
 ./turntable filepath | ./rd_view -
 
 ## Options
